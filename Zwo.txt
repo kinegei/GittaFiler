@@ -1,0 +1,20 @@
+** The first IC 1970: PLDs: programmable logic device
+** Simple components
+** End of 1970s: more complex PLD: CPLD
+** Both still in use
+** Old now called simple PLD: SPLD
+** "throw a wobbly"
+** Different categories pf PLD: 
+
+VIS BILDE!!!
+
+** EPLD, E^2PLD and FLASH versions of these devices: EPROMs and E^PROMs
+
+* PROMs (s. 30)
+**  First SPLDs were PROMs, 1970.
+** Work like this:
+
+VIS BILDE!!!
+
+** Or-array: can be: fusible links, EPROM transistors, E^PROM cells.
+** 
